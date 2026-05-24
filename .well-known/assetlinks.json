@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sixseven.radar",
+      "sha256_cert_fingerprints": [
+        "A0:AC:3C:F8:C6:2D:E3:3F:99:22:60:10:84:D7:67:E7:69:3D:94:29:F5:38:18:8C:0A:3C:3F:8C:BA:BD:B7:53"
+      ]
+    }
+  }
+]
